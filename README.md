@@ -1,4 +1,4 @@
-## I'm a QA Engineer. 
+## I'm a QA Engineer
 ## My CV
 [Link to my CV](https://hh.ru/resume/5fa9dc8aff038c71980039ed1f417371614b47)
 
